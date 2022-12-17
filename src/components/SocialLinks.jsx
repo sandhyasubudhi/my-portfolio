@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: 'https://www.linkedin.com/in/a-sandhya-rani-subudhi-a6890b16a',
+      href: './assets/A SANDHYA RANI SUBUDHI.pdf',
       style: 'rounded-br-md',
       download: true
     },

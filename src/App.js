@@ -8,7 +8,7 @@ import SocialLinks from "./components/SocialLinks";
 
 function App() {
   return (
-    <div>
+    <div class="w-full h-42 overflow-y-scroll no-scrollbar">
       <NavBar/>
       <Home/>
       <SocialLinks/>
